@@ -11,6 +11,8 @@ Tecnologias
 
 </p>
 <img style="width:80%;" alt="acme-cars" src="https://ik.imagekit.io/uw8itmckuzw/img-mockup_2J0Hxj3Fs.png?ik-sdk-version=javascript-1.4.3&updatedAt=1642172613000"></a>
+<br>
+<h4>Clique aqui para visualizar o projeto landing page: https://acmecars.netlify.app/</h4>
 
 ### 🚀 TECNOLOGIAS
 <hr>
